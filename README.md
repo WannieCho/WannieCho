@@ -1,6 +1,6 @@
 # 👻 Wannie's GitHub Space
 ***
-###👋 Hey there!  
+### 👋 Hey there!  
 💡 I'm Wannie, rocking the IT service planning scene for over 7 years and now diving into the world of Systems Architecture (SA).   
 
 🚀 I've crafted some cool remote access/support services and remote management systems for network devices.   
@@ -13,10 +13,10 @@
 Let's connect and grow together in this tech journey.
 ***
 
-###👣 Experience
+### 👣 Experience
 
-###📚 Education
+### 📚 Education
 
-###📃 Certifications
+### 📃 Certifications
 
-###💪 Skills
+### 💪 Skills
