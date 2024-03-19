@@ -1,5 +1,6 @@
 # 👻 Wannie's GitHub Space
 ***
+<br/> 
 ### 👋 Hey there!  
 💡&ensp;I'm Wannie, rocking the IT service planning scene for over 7 years   
 &emsp;&ensp;and now diving into the world of Systems Architecture (SA).   
@@ -15,7 +16,8 @@
 &emsp;&ensp;while also exploring the vast skies of Cloud services.   
 
 📞&ensp;Got questions or just wanna chat? Feel free to hit me up!   
-&emsp;&ensp;Let's connect and grow together in this tech journey.
+&emsp;&ensp;Let's connect and grow together in this tech journey.   
+<br/>   
 ***
 <br/>
 
