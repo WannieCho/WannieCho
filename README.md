@@ -1,7 +1,8 @@
 # 👻 Wannie's GitHub Space
-***
 <br/>   
-### 👋 Hey there!   
+***
+
+## 👋 Hey there!   
 💡&ensp;I'm Wannie, rocking the IT service planning scene for over 7 years   
 &emsp;&ensp;and now diving into the world of Systems Architecture (SA).   
 
@@ -21,16 +22,16 @@
 ***
 <br/>
 
-### 👣 Careers
+## 👣 Careers
 &emsp;&emsp;**2021.04 ~ 2023.04**&emsp;KAON Media   
 &emsp;&emsp;**2018.01 ~ 2021.02**&emsp;R Support   
 &emsp;&emsp;**2016.08 ~ 2027.09**&emsp;Business Insight   
 <br/>
 
-### 📚 Education
+## 📚 Education
 <br/>
 
-### 📃 Certifications
+## 📃 Certifications
 <br/>
 
-### 💪 Skills
+## 💪 Skills
