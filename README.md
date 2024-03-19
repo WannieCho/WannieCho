@@ -21,7 +21,6 @@
 <br/>   
 ***
 <br/>
-
 ## 👣 Careers
 &emsp;&emsp;**2021.04 ~ 2023.04**&emsp;KAON Media   
 &emsp;&emsp;**2018.01 ~ 2021.02**&emsp;R Support   
