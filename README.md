@@ -4,8 +4,8 @@
 💡  I'm Wannie, rocking the IT service planning scene for over 7 years   
 &emsp;&ensp;and now diving into the world of Systems Architecture (SA).   
 
-🚀  I've crafted some cool remote access/support services and   
-&emsp;&ensp;remote management systems for network devices.   
+🚀  I've crafted some cool remote access/support services   
+&emsp;&ensp;and remote management systems for network devices.   
 
 📈  I'm all about leveraging my networking and communications skills,   
 &emsp;&ensp;and I'm currently leveling up with SA courses to bring even more to the table.   
