@@ -17,11 +17,15 @@
 📞&ensp;Got questions or just wanna chat? Feel free to hit me up!   
 &emsp;&ensp;Let's connect and grow together in this tech journey.
 ***
+<br/>
 
 ### 👣 Experience
+<br/>
 
 ### 📚 Education
+<br/>
 
 ### 📃 Certifications
+<br/>
 
 ### 💪 Skills
