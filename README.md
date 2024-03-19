@@ -1,5 +1,5 @@
-# 👻 Wannie's GitHub Space
-<br/>   
+# 👻 Wannie's GitHub Space   
+
 ***
 
 ## 👋 Hey there!   
