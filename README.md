@@ -29,9 +29,15 @@
 <br/>
 
 ## 📚 Education
+&emsp;&emsp;**2023.12 ~ 2024.06**&emsp;MegaZone SA Education   
 <br/>
 
 ## 📃 Certifications
+&emsp;&emsp;AWS CLF-C02   
+&emsp;&emsp;Linux Master   
+&emsp;&emsp;ADsP   
+&emsp;&emsp;DAsP   
 <br/>
 
 ## 💪 Skills
+
